@@ -2,7 +2,8 @@
  ## Mkdocs-material
   - Allows to create documentaion using markdowns
   - pip install mkdocs-material
-  - Add below to mkdocs.yml
+  - Add below to mkdocs.yml  
+  
     ``
      theme:
        name: material
