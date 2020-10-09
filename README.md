@@ -18,5 +18,5 @@
     ```
     markdown build
     ```
-    This generates a site folder with all documentation. Serve it from your server root
+    This generates a site folder with all documentation. Serve it from your server root.
   - [Tutorial](https://www.youtube.com/watch?v=aXxt9OZNhnU)
