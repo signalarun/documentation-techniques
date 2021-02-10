@@ -20,3 +20,9 @@
     ```
     This generates a site folder with all documentation. Serve it from your server root.
   - [Tutorial](https://www.youtube.com/watch?v=aXxt9OZNhnU)
+  
+## Converting markdowns to html
+  + [Pandoc](https://pandoc.org/)
+    - Pandoc is a free and open-source document converter. Its a swis army knife in document conversion.
+    - sudo apt-get install pandoc
+  
